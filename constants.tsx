@@ -35,7 +35,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Coursedeck',
     description: 'A full-stack application for creating personalized career roadmaps leveraging Gemini AI capabilities.',
     techStack: ['React', 'Vite', 'Gemini AI', 'Clerk', 'Tailwind CSS'],
-    liveLink: '#',
+    liveLink: 'https://coursedeck.vercel.app/',
     summaryPoints: [
       'Leverages Gemini AI for personalized content.',
       'Secure user authentication with Clerk.',
@@ -46,7 +46,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'AI Trip Planner',
     description: "A React-based AI trip planner for customized travel experiences using Google's AI.",
     techStack: ['React', 'Firebase', 'Google Places API', "Google's AI (Gemini)"],
-    liveLink: '#',
+    liveLink: 'https://ai-trip-planner-tau-silk.vercel.app/',
     summaryPoints: [
       'Advanced AI algorithms for itinerary creation.',
       'Robust data storage with Firebase.',
@@ -57,7 +57,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'VirtuSelect - Online Interview Platform',
     description: 'An innovative online interview platform to enhance interview process efficiency in a robust virtual environment.',
     techStack: ['Next.js', 'NeonDB', 'Drizzle ORM', 'PostgreSQL'],
-    liveLink: '#',
+    liveLink: 'https://virtu-select.vercel.app/',
     summaryPoints: [
       'Robust virtual environment for interviews.',
       'Optimized database interactions with Drizzle ORM.',
