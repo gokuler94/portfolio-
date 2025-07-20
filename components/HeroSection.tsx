@@ -93,7 +93,7 @@ const HeroSection: React.FC<{ id: string; }> = ({ id }) => {
         </motion.p>
         
         <motion.div variants={itemVariants} className="mt-8 flex flex-wrap items-center justify-center gap-4">
-            <ShimmerButton href="/resume.pdf" download="Gokul_ER_Resume.pdf">
+            <ShimmerButton href="/gokul_resume.pdf" download="Gokul_ER_Resume.pdf">
                 <FaFileDownload className="mr-2 h-4 w-4" /> Download Resume
             </ShimmerButton>
             <ShimmerButton href="#projects" onClick={(e) => handleScroll(e, '#projects')}>
